@@ -16,5 +16,8 @@
     "url": "https://github.com/aqualad/github-battle/issues"
   },
   "homepage": "https://github.com/aqualad/github-battle#readme",
-  "dependencies": {}
+  "dependencies": {
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  }
 }
