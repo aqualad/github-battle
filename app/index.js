@@ -8,6 +8,14 @@ var React = require('react');
 var ReactDOM = require('react-dom');
 
 var HelloWorld = React.createClass({
+/*
+    Focused
+    Independent
+    Reusable
+    Small
+    Testable
+*/
+
     render: function () {
         return (
             <div> Hello ReactJS Program! </div>
