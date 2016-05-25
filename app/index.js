@@ -1,5 +1,6 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
+var routes = require('./config/routes');
 
 /*
     Focused
@@ -48,5 +49,6 @@ var Avatar = React.createClass({
 })
 
 ReactDOM.render(
+    routes,
     document.getElementById('app')
 );
